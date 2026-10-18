@@ -1,0 +1,16 @@
+// Un grupo por línea: palabras que significan lo mismo para el usuario (palabras sueltas, sin acentos).
+// Se aplica solo a la consulta, no cambia los documentos. Edita a mano.
+luz, electricidad, energia, corriente
+recibo, boleta, cuenta, factura
+apagon, falla, interrupcion, apagado
+pagar, pago, abonar, liquidar
+medidor, contador
+titular, nombre, dueño, propietario
+contratar, contrato, alta, conexion
+tarifa, precio, costo, cobro
+subsidio, descuento, apoyo
+reconexion, reconectar
+oficina, sucursal, modulo, cac
+direccion, domicilio, ubicacion
+aclaracion, queja, reclamo, inconformidad
+cable, cables, alambre

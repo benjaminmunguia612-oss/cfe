@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CFE GUÍA</title>
+  <link rel="icon" type="image/png" href="/static/favicon.png">
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <a class="skip" href="#pregunta">Ir al campo de pregunta</a>
+  <header>
+    <img src="/static/logo.png" alt="CFE Comisión Federal de Electricidad" height="48">
+    <h1>CFE GUÍA</h1>
+    <p>Preguntas frecuentes de usuarios de la Comisión Federal de Electricidad.</p>
+  </header>
+  <main>
+    <p class="aviso" role="note">CFE GUÍA es una guía de apoyo. Para trámites importantes confirma la información al 071 o en cfe.mx.
+      Tus preguntas se procesan con un servicio de IA de un tercero: no escribas datos personales ni bancarios.
+      Ante cables caídos o riesgo eléctrico llama al 071; si hay lesionados o fuego, al 911.</p>
+
+    <div id="chat" role="log" aria-live="polite" aria-label="Conversación"></div>
+
+    <form id="form" autocomplete="off">
+      <input type="hidden" id="perfil" value="todos">
+      <label for="pregunta">Tu pregunta</label>
+      <textarea id="pregunta" rows="2" maxlength="300" placeholder="Ejemplo: ¿Dónde puedo pagar mi recibo de luz?" required></textarea>
+      <div class="row">
+        <button type="submit" id="enviar">Preguntar</button>
+        <span id="uso" aria-live="off"></span>
+      </div>
+    </form>
+  </main>
+  <script src="/static/app.js"></script>
+</body>
+</html>

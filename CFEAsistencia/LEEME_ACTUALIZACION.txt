@@ -1,0 +1,18 @@
+ACTUALIZACIÓN v5 — Panel de administración: Memoria, Configuración y acceso
+==========================================================================
+SUBIR (GitHub web): descomprime, "Add file" > "Upload files", arrastra las carpetas (sobrescribe). Commit; Render redespliega.
+No hay dependencias nuevas ni archivos que borrar.
+
+CÓMO ENTRAR AL PANEL
+1) En Render > tu servicio > Environment: define ADMIN_TOKEN (texto largo y aleatorio, mínimo 16 caracteres).
+2) Abre  https://TU-APP.onrender.com/admin   o usa el enlace pequeño "Administración" al pie del chat.
+
+NUEVO EN EL PANEL
+- Pestaña "Memoria": estado del índice frente al archivo (al día / desactualizado), caché e informes pendientes.
+    Botones: "Reindexar ahora" y "Vaciar caché".
+- Pestaña "Configuración": valores activos de solo lectura + recomendaciones. Nunca muestra secretos.
+- Al entrar se cargan Resumen, Corpus, Memoria y Configuración automáticamente.
+
+ENLACE EN LA PÁGINA PÚBLICA
+- Aparece un enlace discreto "Administración" al pie. Para ocultarlo: SHOW_ADMIN_LINK=false en Render
+  (el panel sigue disponible en /admin; la protección real es el token).

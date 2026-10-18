@@ -1,0 +1,28 @@
+:root { --bg:#F6F7F6; --fg:#1b1f23; --muted:#4a5560; --card:#fff; --line:#c9d1d9; --accent:#0E5A45; --warn:#7a4b00; --warnbg:#fff4dc; }
+@media (prefers-color-scheme: dark) { :root { --bg:#0A211C; --fg:#eef2f5; --muted:#b3bec9; --card:#10312B; --line:#2B5247; --accent:#8ED1B0; --warn:#ffd48a; --warnbg:#3a2d12; } }
+* { box-sizing: border-box; }
+body { margin:0; background:var(--bg); color:var(--fg); font:1.125rem/1.6 system-ui, -apple-system, "Segoe UI", sans-serif; }
+header, main { max-width: 46rem; margin: 0 auto; padding: 1rem; }
+h1 { margin:.2rem 0 0; font-size:1.6rem; }
+header p { margin:.2rem 0 0; color:var(--muted); }
+.skip { position:absolute; left:-999px; } .skip:focus { left:1rem; top:1rem; background:var(--card); padding:.5rem; z-index:5; }
+.aviso { font-size:.95rem; color:var(--muted); border-left:4px solid var(--line); padding:.25rem .75rem; }
+#chat { display:flex; flex-direction:column; gap:1rem; margin:1rem 0; }
+.msg { background:var(--card); border:1px solid var(--line); border-radius:.6rem; padding:.75rem 1rem; max-width:100%; overflow-wrap:anywhere; }
+.msg.user { align-self:flex-end; border-color:var(--accent); }
+.msg p { margin:.25rem 0; white-space:pre-line; }
+.ficha { margin-top:.75rem; border-top:1px dashed var(--line); padding-top:.5rem; font-size:1rem; }
+.ficha h3 { margin:.2rem 0; font-size:1.05rem; }
+.ficha dl { margin:0; display:grid; grid-template-columns:auto 1fr; gap:.1rem .75rem; }
+.ficha dt { color:var(--muted); } .ficha dd { margin:0; }
+.warn { background:var(--warnbg); color:var(--warn); padding:.4rem .7rem; border-radius:.4rem; font-size:.95rem; margin:.5rem 0; }
+.fuentes { font-size:.9rem; color:var(--muted); margin-top:.5rem; }
+form { display:grid; gap:.5rem; border-top:1px solid var(--line); padding-top:1rem; }
+select, textarea, button { font:inherit; padding:.6rem .8rem; border:2px solid var(--line); border-radius:.5rem; background:var(--card); color:var(--fg); }
+button { background:var(--accent); color:#fff; border-color:var(--accent); cursor:pointer; min-height:44px; min-width:44px; }
+@media (prefers-color-scheme: dark) { button { color:#06121f; } }
+button:disabled { opacity:.6; cursor:wait; }
+.fb button { background:transparent; color:var(--fg); border-color:var(--line); font-size:.9rem; padding:.3rem .7rem; min-height:44px; }
+:focus-visible { outline:3px solid var(--accent); outline-offset:2px; }
+.row { display:flex; gap:1rem; align-items:center; flex-wrap:wrap; } #uso { color:var(--muted); font-size:.9rem; }
+@media (prefers-reduced-motion: no-preference) { html { scroll-behavior:smooth; } }

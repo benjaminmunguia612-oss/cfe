@@ -1,0 +1,189 @@
+// =====================================================================
+// CORPUS DE CFE GUÍA — Preguntas frecuentes de usuarios de la Comisión Federal de Electricidad
+// Información tomada de fuentes públicas (octubre 2026). Revísala con los canales oficiales de CFE
+// (cfe.mx y 071) antes de publicar y actualiza la fecha ACTUALIZADO de cada ficha.
+// PREGUNTA: pregunta frecuente que aparece como botón en el chat; los temas más consultados salen primero.
+// Cada entrada empieza con "### id-en-minusculas". Copia data/plantilla_entrada.txt.
+// Después de editar:  python -m app.build_corpus   y haz commit.
+// =====================================================================
+
+### reportar-falla
+TITULO: Reportar una falla o apagón
+PUESTO: Atención a Clientes CFE (071)
+CATEGORIA: servicios
+AUDIENCIA: todos
+TAGS: apagon, sin luz, falla, se fue la luz, reportar, reporte, transformador, interrupcion, bajo voltaje, cables, 071, colonia
+TELEFONO: 071 (las 24 horas, los 365 días)
+WEB: https://www.cfe.mx
+HORARIO: Las 24 horas, todos los días
+ACTUALIZADO: 2026-10-17
+PREGUNTA: ¿Cómo reporto un apagón o falla de luz?
+--
+Antes de reportar, revisa que los interruptores o pastillas de tu casa estén arriba y que los fusibles no estén dañados.
+Puedes reportar la falla llamando al 071, en el sitio web de CFE, en la app CFE Contigo o en un Centro de Atención a Clientes.
+Ten a la mano tu número de servicio (parte superior derecha del recibo), tu dirección completa con una referencia y un teléfono de contacto.
+Guarda el número de reporte que te den para dar seguimiento. El restablecimiento por falla no tiene costo.
+
+### pagar-recibo
+TITULO: Pagar el recibo de luz
+PUESTO: Atención a Clientes CFE
+CATEGORIA: tramites
+AUDIENCIA: todos
+TAGS: pagar, pago, recibo, donde pago, cfematico, tienda, banco, en linea, app, tarjeta, adeudo, fecha limite
+WEB: https://www.cfe.mx
+ACTUALIZADO: 2026-10-17
+PREGUNTA: ¿Dónde puedo pagar mi recibo de luz?
+--
+Puedes pagar en línea en el portal de CFE o en la app oficial CFE Contigo con tarjeta bancaria.
+También puedes pagar en los cajeros CFEmáticos, en los Centros de Atención a Clientes y en bancos y tiendas autorizadas.
+Si perdiste el recibo, puedes pagar con tu número de servicio de 12 dígitos.
+Guarda tu comprobante: el pago puede tardar en reflejarse según el método y el horario bancario.
+
+### consultar-recibo
+TITULO: Consultar o descargar el recibo y la factura
+PUESTO: Atención a Clientes CFE
+CATEGORIA: tramites
+AUDIENCIA: todos
+TAGS: consultar, recibo, descargar, factura, cfdi, numero de servicio, perdi mi recibo, saldo, cuanto debo, imprimir, duplicado
+WEB: https://www.cfe.mx
+ACTUALIZADO: 2026-10-17
+PREGUNTA: ¿Cómo consulto o descargo mi recibo?
+--
+Puedes consultar tu adeudo y descargar tu recibo en el portal de CFE o en la app CFE Contigo registrando tu número de servicio.
+El número de servicio tiene 12 dígitos y está en la parte superior derecha del recibo.
+Si necesitas factura electrónica, solicítala en el portal de CFE con tu número de servicio y tus datos fiscales.
+
+### aclaracion-cobro
+TITULO: Aclaración por cobro excesivo
+PUESTO: Atención a Clientes CFE (071)
+CATEGORIA: tramites
+AUDIENCIA: todos
+TAGS: aclaracion, cobro alto, me llego mucho, recibo caro, cobro excesivo, queja, revision, lectura, inconformidad, consumo
+TELEFONO: 071
+WEB: https://www.cfe.mx
+ACTUALIZADO: 2026-10-17
+PREGUNTA: Me llegó un recibo muy alto, ¿qué hago?
+--
+Compara los kilowatts-hora (kWh) del recibo con los de periodos anteriores y revisa si aumentó el uso de aire acondicionado o bombas de agua.
+Revisa que la lectura del medidor coincida con la del recibo y toma una foto del medidor.
+Reúne el recibo actual, el anterior y las fotos, y presenta la aclaración al 071, en un Centro de Atención a Clientes o en los canales digitales de CFE.
+Si la lectura no coincide o hubo fallas, solicita una revisión del consumo o del medidor. Actuar pronto ayuda a evitar recargos.
+
+### contratar-servicio
+TITULO: Contratar el servicio de luz (nuevo contrato)
+PUESTO: Atención a Clientes CFE
+CATEGORIA: tramites
+AUDIENCIA: todos
+TAGS: contratar, contrato, alta, casa nueva, nuevo servicio, conectar luz, instalar medidor, requisitos, deposito, factibilidad
+WEB: https://www.cfe.mx
+ACTUALIZADO: 2026-10-17
+PREGUNTA: ¿Qué necesito para contratar la luz?
+--
+Necesitas identificación oficial vigente, RFC, dirección exacta del inmueble con calles de referencia, teléfono y correo electrónico.
+Si otra persona hace el trámite, lleva carta poder e identificación del representante.
+La instalación eléctrica debe estar terminada y el poste más cercano a no más de 35 metros en zona urbana o 50 metros en zona rural; si está más lejos se pide un estudio de factibilidad.
+Se solicita en el portal de contratación de CFE o en un Centro de Atención a Clientes. Para casa habitación se cobra un depósito en garantía en el primer recibo.
+
+### cambio-titular
+TITULO: Cambio de titular (nombre en el recibo)
+PUESTO: Atención a Clientes CFE
+CATEGORIA: tramites
+AUDIENCIA: todos
+TAGS: cambio de nombre, titular, cambiar nombre, recibo a mi nombre, compre casa, renta, arrendamiento, escrituras, nombre del dueño
+TELEFONO: 071
+WEB: https://www.cfe.mx
+ACTUALIZADO: 2026-10-17
+PREGUNTA: ¿Cómo cambio el nombre del titular del recibo?
+--
+Lleva identificación oficial y un documento que acredite tu relación con el inmueble: escritura, contrato de compraventa o contrato de arrendamiento.
+Según el caso, pueden pedirte recibo de predial o constancia de domicilio de la autoridad local.
+El trámite se hace en un Centro de Atención a Clientes o en los canales en línea de CFE; confirma los requisitos de tu caso al 071.
+Conserva el folio o comprobante para dar seguimiento.
+
+### tarifa-verano-sonora
+TITULO: Tarifa de verano y subsidio en Sonora
+PUESTO: CFE · Tarifas domésticas
+CATEGORIA: informacion
+AUDIENCIA: todos
+TAGS: tarifa, subsidio, verano, invierno, 1f, sonora, hermosillo, precio, kwh, aire acondicionado, descuento, temporada
+WEB: https://www.cfe.mx
+ACTUALIZADO: 2026-10-17
+PREGUNTA: ¿Cuándo aplica el subsidio de verano en Sonora?
+--
+En Hermosillo y gran parte de Sonora aplica la tarifa doméstica 1F, la de mayor subsidio por el clima caluroso.
+El periodo de verano, con el subsidio más amplio, va del 1 de abril al 31 de octubre.
+Del 1 de noviembre al 31 de marzo (invierno) el consumo subsidiado es mucho menor, por eso el recibo puede subir si mantienes el mismo consumo.
+Los precios por kWh cambian; consulta los vigentes en tu recibo o en el portal de CFE.
+
+### corte-reconexion
+TITULO: Corte por falta de pago y reconexión
+PUESTO: Atención a Clientes CFE (071)
+CATEGORIA: tramites
+AUDIENCIA: todos
+TAGS: corte, me cortaron la luz, reconexion, reconectar, suspension, adeudo, falta de pago, atrasado, volver a conectar
+TELEFONO: 071
+ACTUALIZADO: 2026-10-17
+PREGUNTA: Me cortaron la luz por falta de pago, ¿cómo la reconecto?
+--
+Paga el adeudo total por cualquiera de los medios de pago de CFE y guarda tu comprobante.
+Después del pago se programa la reconexión; puede aplicarse un cargo por reconexión en tu siguiente recibo.
+Si después del tiempo indicado no se ha reconectado, llama al 071 con tu número de servicio y tu comprobante de pago.
+
+### medidor
+TITULO: Medidor de luz: lectura, daño o revisión
+PUESTO: Atención a Clientes CFE (071)
+CATEGORIA: servicios
+AUDIENCIA: todos
+TAGS: medidor, lectura, contador, medidor dañado, revision del medidor, cambiar medidor, segundo medidor, no marca, gira rapido
+TELEFONO: 071
+ACTUALIZADO: 2026-10-17
+PREGUNTA: ¿Cómo pido una revisión de mi medidor?
+--
+Para revisar la lectura, compara los números del medidor con la lectura actual que aparece en tu recibo.
+Si el medidor está dañado, no marca o crees que mide de más, repórtalo al 071 o en un Centro de Atención a Clientes y solicita una revisión.
+No manipules el medidor ni sus sellos: solo personal de CFE puede intervenirlo.
+
+### riesgo-electrico
+TITULO: Cables caídos, postes dañados o riesgo eléctrico
+PUESTO: Atención a Clientes CFE (071)
+CATEGORIA: servicios
+AUDIENCIA: todos
+TAGS: cable caido, poste, chispas, riesgo, peligro, poste dañado, cables sueltos, arbol en cables, electrocucion, transformador
+TELEFONO: 071 (las 24 horas)
+ACTUALIZADO: 2026-10-17
+PREGUNTA: Hay un cable caído en mi calle, ¿a quién aviso?
+--
+No te acerques ni toques el cable, el poste o cualquier objeto en contacto con ellos, y aleja a otras personas y mascotas.
+Reporta de inmediato al 071 con la dirección exacta y una referencia.
+Si hay personas lesionadas o fuego, llama primero al 911.
+
+### centros-atencion
+TITULO: Centros de Atención a Clientes y canales de contacto
+PUESTO: Atención a Clientes CFE
+CATEGORIA: informacion
+AUDIENCIA: todos
+TAGS: oficina, sucursal, centro de atencion, cac, donde queda, atencion a clientes, hermosillo, contacto, telefono, app, cfe contigo, redes
+TELEFONO: 071
+WEB: https://www.cfe.mx
+ACTUALIZADO: 2026-10-17
+PREGUNTA: ¿Dónde hay una oficina de CFE?
+--
+La atención telefónica nacional es el 071, las 24 horas.
+También puedes hacer trámites en el portal de CFE, en la app CFE Contigo y en los Centros de Atención a Clientes (CAC).
+Para ubicar el Centro de Atención a Clientes más cercano en Hermosillo, consulta el localizador del portal de CFE o pregunta al 071.
+
+### cfe-oficinas-centrales
+TITULO: Comisión Federal de Electricidad (CFE) — Oficinas centrales
+PUESTO: Comisión Federal de Electricidad
+CATEGORIA: informacion
+AUDIENCIA: todos
+TAGS: direccion, domicilio, oficinas centrales, corporativo, donde queda, ubicacion, reforma, ciudad de mexico, cdmx, contacto, pagina web, sitio web
+TELEFONO: 071
+UBICACION: Av. Paseo de la Reforma 164, Col. Juárez, Alcaldía Cuauhtémoc, Ciudad de México, C.P. 06600
+HORARIO: Lunes a viernes, 9:00 a 15:00
+WEB: https://www.cfe.mx
+ACTUALIZADO: 2026-10-17
+PREGUNTA: ¿Cuál es la dirección de CFE?
+--
+Las oficinas centrales de la Comisión Federal de Electricidad están en Av. Paseo de la Reforma 164, Col. Juárez, Alcaldía Cuauhtémoc, Ciudad de México, C.P. 06600.
+Para trámites de tu servicio no necesitas ir a oficinas centrales: usa el 071, el portal de CFE, la app CFE Contigo o un Centro de Atención a Clientes.

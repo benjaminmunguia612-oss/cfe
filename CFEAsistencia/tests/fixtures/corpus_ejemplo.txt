@@ -1,0 +1,177 @@
+// =====================================================================
+// CORPUS DE GTU GUÍA
+// La entrada 'gtu-campus-hermosillo' es REAL. Las demás son ejemplos FICTICIOS: reemplázalas por las reales.
+// PREGUNTA (opcional): pregunta modelo que aparece como ejemplo en el chat; los temas más consultados salen primero.
+// Cada entrada empieza con "### id-en-minusculas". Copia data/plantilla_entrada.txt.
+// Después de editar:  python -m app.build_corpus   y haz commit.
+// =====================================================================
+
+### servicios-escolares
+TITULO: Servicios Escolares
+PUESTO: Coordinación de Servicios Escolares
+CATEGORIA: tramites
+AUDIENCIA: estudiante
+TAGS: inscripcion, reinscripcion, credencial, constancia, kardex, historial academico, baja, boleta, documentos, titulo, certificado
+RESPONSABLE: Mtra. Laura Pérez (ejemplo)
+CORREO: servicios.escolares@ejemplo.edu.mx
+TELEFONO: 662 000 0001 ext. 101
+UBICACION: Planta baja, a la derecha de la entrada principal, junto a la cafetería
+HORARIO: Lunes a viernes, 9:00 a 15:00
+ACTUALIZADO: 2026-08-15
+PREGUNTA: ¿Dónde entrego mis documentos de inscripción?
+--
+Aquí se hacen la inscripción, la reinscripción, las constancias de estudios, el kardex y la baja temporal o definitiva.
+Para inscribirte lleva: identificación oficial, comprobante de pago y acta de nacimiento.
+La credencial de estudiante se entrega con tu comprobante de inscripción. Puede haber fila los primeros días del semestre.
+
+### becas
+TITULO: Becas y Apoyos Económicos
+PUESTO: Departamento de Becas
+CATEGORIA: tramites
+AUDIENCIA: estudiante
+TAGS: beca, becas, apoyo economico, descuento, convocatoria, promedio, manutencion, solicitud de beca
+RESPONSABLE: Lic. Carlos Ruiz (ejemplo)
+CORREO: becas@ejemplo.edu.mx
+TELEFONO: 662 000 0001 ext. 120
+UBICACION: Planta baja, pasillo de oficinas administrativas, segunda puerta
+HORARIO: Lunes a viernes, 10:00 a 14:00
+ACTUALIZADO: 2026-07-01
+PREGUNTA: ¿Cómo solicito una beca?
+--
+La convocatoria de becas se publica al inicio de cada semestre.
+Para solicitar una beca necesitas: solicitud llena, comprobante de ingresos, constancia con promedio y credencial vigente.
+El resultado se publica en el tablero de avisos del departamento y por correo institucional.
+
+### biblioteca
+TITULO: Biblioteca
+PUESTO: Coordinación de Biblioteca
+CATEGORIA: servicios
+AUDIENCIA: todos
+TAGS: biblioteca, libros, prestamo, prestamos, cubiculos, estudio, silencio, credencial, renovar, multa, sala de lectura
+RESPONSABLE: Biblioteca Central (ejemplo)
+CORREO: biblioteca@ejemplo.edu.mx
+TELEFONO: 662 000 0001 ext. 140
+UBICACION: Piso 2, al salir del elevador a la izquierda
+HORARIO: Lunes a viernes, 8:00 a 20:00; sábados, 9:00 a 13:00
+ACTUALIZADO: 2026-08-20
+PREGUNTA: ¿Cuál es el horario de la biblioteca?
+--
+Para pedir libros prestados presenta tu credencial vigente. El préstamo es de 7 días y se puede renovar una vez.
+Hay cubículos de estudio que se reservan en el mostrador. La sala de lectura es zona de silencio.
+
+### soporte-ti
+TITULO: Soporte Técnico y Tecnologías de la Información
+PUESTO: Departamento de Tecnologías de la Información
+CATEGORIA: tecnologia
+AUDIENCIA: todos
+TAGS: wifi, internet, red, correo institucional, contraseña, plataforma, aula virtual, cuenta, proyector, soporte, computadora
+RESPONSABLE: Ing. Marco Soto (ejemplo)
+CORREO: soporte.ti@ejemplo.edu.mx
+TELEFONO: 662 000 0001 ext. 160
+UBICACION: Piso 3, cubículo junto a los laboratorios de cómputo
+HORARIO: Lunes a viernes, 8:00 a 17:00
+ACTUALIZADO: 2026-09-01
+PREGUNTA: No puedo conectarme al Wi-Fi
+--
+Para conectarte al Wi-Fi usa la red del campus con tu correo institucional y tu contraseña.
+Si olvidaste tu contraseña, pide el restablecimiento en soporte con tu credencial.
+Los profesores pueden pedir apoyo con proyector y equipo de aula con un día de anticipación.
+
+### alta-profesores
+TITULO: Alta y Contratación de Profesores
+PUESTO: Coordinación Académica
+CATEGORIA: tramites
+AUDIENCIA: profesor
+TAGS: alta, contratacion, contrato, profesor de nuevo ingreso, docente, nomina, expediente, horario de clases, cubiculo
+RESPONSABLE: Dra. Ana Torres (ejemplo)
+CORREO: coordinacion.academica@ejemplo.edu.mx
+TELEFONO: 662 000 0001 ext. 201
+UBICACION: Piso 3, oficina al fondo del pasillo principal
+HORARIO: Lunes a viernes, 9:00 a 16:00
+ACTUALIZADO: 2026-08-10
+PREGUNTA: ¿Qué documentos necesito para mi alta como profesor?
+--
+Para tu alta como profesor entrega: identificación oficial, comprobante de domicilio, currículum y título o cédula.
+Con el expediente completo se firma el contrato y se asigna tu cubículo y tu horario de clases.
+
+### calificaciones-profesores
+TITULO: Captura de Calificaciones y Actas
+PUESTO: Coordinación Académica
+CATEGORIA: tramites
+AUDIENCIA: profesor
+TAGS: calificaciones, actas, captura, evaluacion, fechas limite, lista de asistencia, asistencia, plataforma
+RESPONSABLE: Dra. Ana Torres (ejemplo)
+CORREO: coordinacion.academica@ejemplo.edu.mx
+TELEFONO: 662 000 0001 ext. 202
+UBICACION: Piso 3, oficina al fondo del pasillo principal
+HORARIO: Lunes a viernes, 9:00 a 16:00
+ACTUALIZADO: 2025-01-10
+PREGUNTA: ¿Cómo capturo las calificaciones?
+--
+Las calificaciones se capturan en la plataforma académica dentro del periodo marcado en el calendario.
+Después se imprime y firma el acta y se entrega en Coordinación Académica.
+La asistencia mínima para tener derecho a examen la define el reglamento de evaluación.
+
+### servicio-social
+TITULO: Servicio Social
+PUESTO: Departamento de Vinculación
+CATEGORIA: tramites
+AUDIENCIA: estudiante
+TAGS: servicio social, practicas profesionales, liberacion, horas, vinculacion, carta de presentacion
+RESPONSABLE: Lic. Elena Mora (ejemplo)
+CORREO: vinculacion@ejemplo.edu.mx
+TELEFONO: 662 000 0001 ext. 130
+UBICACION: Piso 1, junto a la escalera principal
+HORARIO: Lunes a viernes, 9:00 a 14:00
+ACTUALIZADO: 2026-06-15
+PREGUNTA: ¿Cómo inicio mi servicio social?
+--
+Puedes iniciar el servicio social al cubrir el porcentaje de créditos que marca el reglamento.
+Pasos: registrar el proyecto, pedir la carta de presentación, cumplir las horas y entregar los reportes para la liberación.
+
+### apoyo-psicopedagogico
+TITULO: Apoyo Psicopedagógico e Inclusión
+PUESTO: Unidad de Tutorías e Inclusión
+CATEGORIA: apoyo
+AUDIENCIA: todos
+TAGS: tutoria, tutorias, inclusion, discapacidad, autismo, ajustes razonables, apoyo, psicopedagogico, accesibilidad, elevador
+RESPONSABLE: Unidad de Tutorías e Inclusión (ejemplo)
+CORREO: inclusion@ejemplo.edu.mx
+TELEFONO: 662 000 0001 ext. 150
+UBICACION: Piso 1, oficina junto al elevador
+HORARIO: Lunes a viernes, 9:00 a 17:00
+ACTUALIZADO: 2026-08-25
+PREGUNTA: ¿Dónde pido apoyo de tutoría o inclusión?
+--
+La unidad acompaña a estudiantes y profesores con necesidades de apoyo y coordina ajustes razonables en clase.
+Puedes pedir una cita por correo o acudir directamente. El elevador del edificio está junto a esta oficina.
+Este servicio informa y canaliza; no sustituye atención médica o psicológica especializada.
+
+### cafeteria
+TITULO: Cafetería
+PUESTO: Concesión de Cafetería
+CATEGORIA: servicios
+AUDIENCIA: todos
+TAGS: cafeteria, comida, comedor, desayuno, cafe, comer, menu
+UBICACION: Planta baja, junto a Servicios Escolares
+HORARIO: Lunes a viernes, 7:30 a 17:00
+ACTUALIZADO: 2026-08-15
+--
+Hay desayunos y comidas. Se paga en caja al entrar. Puede haber más gente entre 13:00 y 15:00.
+
+### gtu-campus-hermosillo
+TITULO: GTU Campus Hermosillo
+PUESTO: Grupo Tecnológico Universitario
+CATEGORIA: informacion
+AUDIENCIA: todos
+TAGS: direccion, domicilio, ubicacion del campus, donde queda, como llegar, telefono, correo, contacto, pagina web, sitio web, hermosillo, colonia san benito, campus
+CORREO: vroman.tuc@gmail.com
+TELEFONO: 662 336 6626
+UBICACION: Calle Veracruz No. 235, Colonia San Benito, entre Calle De La Reforma y Calle Guadalupe Victoria, Hermosillo, Sonora, C.P. 83190
+WEB: https://gtuhermosillo.com/
+ACTUALIZADO: 2026-10-11
+PREGUNTA: ¿Cuál es la dirección del campus?
+--
+GTU Campus Hermosillo es parte del Grupo Tecnológico Universitario.
+Está en Calle Veracruz No. 235, Colonia San Benito, entre Calle De La Reforma y Calle Guadalupe Victoria, en Hermosillo, Sonora, C.P. 83190.
+Para dudas generales puedes llamar por teléfono o escribir al correo que aparece en esta ficha.
